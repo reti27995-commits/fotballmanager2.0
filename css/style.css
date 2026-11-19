@@ -1,0 +1,60 @@
+
+body {
+ background-image: radial-gradient(circle at center, #34619d 0%, #34619d 1%, #1d3b6e 100%);
+}
+.footer {background-color: #f4d633;
+}
+.nav a {
+    font-size: 14px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-family: "Arial";
+}
+.main-content i{
+    font-size: 16px;
+    color: #ffffff;
+    font-style: italic;
+    font-family: "Arial";
+}
+.main-content p {
+    font-size: 48px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-family: "Arial";
+}
+.main-content strong{
+    font-size: 30px;
+    color: #ffffff;
+    font-family: "Arial";
+}
+.main-content h1 {
+    text-transform: uppercase;
+    color: #f4d633;
+    font-family: "Arial";
+}
+.main-content em {
+    font-size: 20px;
+    color: #ffffff;
+    font-family: "Arial";
+}
+.schedule p {
+    font-family: "Arial";
+    color: #1e3c6f;
+    font-size: 16px;
+}
+.number a {
+    font-size: 16px;
+    line-height: 50px;
+    color: #ffffff;
+    font-family: "Arial";
+}
+footer h3 {
+    font-size: 16px;
+    line-height: 50px;
+    color: #ffffff;
+    font-family: "Arial";
+}
+.em img {
+width: 25px;
+height: 25px;}
