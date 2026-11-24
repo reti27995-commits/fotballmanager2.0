@@ -1,60 +1,106 @@
 
 body {
+    font-family: Arial, sans-serif;
  background-image: radial-gradient(circle at center, #34619d 0%, #34619d 1%, #1d3b6e 100%);
+ font: 16px Arial;
 }
 .footer {background-color: #f4d633;
 }
+
 .nav a {
     font-size: 14px;
     line-height: 30px;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #fff;
     font-family: "Arial";
+    font: 16px Arial;
 }
+
 .main-content i{
     font-size: 16px;
-    color: #ffffff;
+    color: #fff;
     font-style: italic;
     font-family: "Arial";
+    font: 16px Arial;
 }
+
+.main-content i{
+    font-size: 16px;
+    color: #fff;
+    font-style: italic;
+    font-family: "Arial";
+    font: 16px Arial;
+}
+
 .main-content p {
     font-size: 48px;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #fff;
     font-family: "Arial";
+    font: 48px Arial;
 }
+
 .main-content strong{
     font-size: 30px;
-    color: #ffffff;
+    color: #fff;
     font-family: "Arial";
+    font: 30px Arial;
 }
+
 .main-content h1 {
     text-transform: uppercase;
     color: #f4d633;
     font-family: "Arial";
 }
+
 .main-content em {
     font-size: 20px;
-    color: #ffffff;
+    color: #fff;
     font-family: "Arial";
+    font: 20px Arial;
 }
+
+.schedule em {
+    font-family: "Arial";
+    color: #1e3c6f;
+    font-size: 16px;
+    font: 16px Arial;
+}
+
 .schedule p {
     font-family: "Arial";
     color: #1e3c6f;
     font-size: 16px;
+    font: 16px Arial;
 }
+
 .number a {
     font-size: 16px;
     line-height: 50px;
-    color: #ffffff;
+    color: #fff;
     font-family: "Arial";
+    font: 16px Arial;
 }
+
 footer h3 {
     font-size: 16px;
     line-height: 50px;
-    color: #ffffff;
+    color: #fff;
     font-family: "Arial";
+    font: 16px Arial;
 }
+
 .em img {
 width: 25px;
-height: 25px;}
+height: 25px;
+}
+
+.nav a {
+color:#fff;
+text-decoration: none;
+}
+
+.number a {
+color:#fff;
+text-decoration: none;
+}
